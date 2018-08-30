@@ -10,7 +10,7 @@ Feature: Interact with automationpractice site
 
     Examples:
       | email                | fName | lName | password | day | month | year | Address  | City  | State  | Zip   | mobile      |
-      | abc30082018@test.com | NameA | NameB | Anusha21 | 21  | 10    | 1990 | AddressA | CityA | Hawaii | 00000 | 07791111011 |
+      | abc300820181@test.com | NameA | NameB | Anusha21 | 21  | 10    | 1990 | AddressA | CityA | Hawaii | 00000 | 07791111011 |
 
 
 

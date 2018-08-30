@@ -1,1 +1,1 @@
-LoginAndAddDressToCart.feature:3 RegisterUser.feature:13
+LoginAndAddDressToCart.feature:3
